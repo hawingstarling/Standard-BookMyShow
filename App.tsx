@@ -1,14 +1,13 @@
+import RootLayout from '@/Navigations/AppNavigation';
 import Splash from './src/Screens/SplashScreen';
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import HeaderMovie from '@/Components/HeaderMovie';
 
 export default function App() {
   return (
-    // <View style={styles.container}>
-    //   <Text>Open up App.tsx to start working on your app!</Text>
-    //   <StatusBar style="auto" />
-    // </View>
-    <Splash />
+    // <Splash />
+    // <RootLayout />
+    <HeaderMovie />
   );
 }
 

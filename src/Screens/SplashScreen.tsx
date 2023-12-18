@@ -1,5 +1,5 @@
 import { StatusBar } from "expo-status-bar";
-import { ImagesBMS } from "../../Assets/Images/Home";
+import { ImagesBMS } from "../Assets/Images/Home";
 import {
     SafeAreaView,
     StyleSheet,
@@ -11,7 +11,7 @@ import {
 
 function Splash() {
     const isDarkMode = useColorScheme() === 'dark'
-    
+
     return (
         <SafeAreaView style={styles.container}>
             <StatusBar style={!isDarkMode ? 'light' : 'dark'} />

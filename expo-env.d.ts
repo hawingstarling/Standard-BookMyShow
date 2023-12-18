@@ -1,4 +1,3 @@
-declare module "*.png";
-declare module "*.svg";
-declare module "*.jpeg";
-declare module "*.jpg";
+/// <reference types="expo-router/types" />
+
+// NOTE: This file should not be edited and should be in your git ignore
