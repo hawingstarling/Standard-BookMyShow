@@ -85,16 +85,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+BookMyShow is India's largest entertainment ticketing website. Headquartered in Mumbai, it is the only destination for movie and non-movie options like events, plays and sports. Apart from movies, BookMyShow has ticketed for more than 300 live large format events and sport events such as ICL, city Marathons, etc.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+For Booking, [Go To](https://in.bookmyshow.com/explore/home)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
